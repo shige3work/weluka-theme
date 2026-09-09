@@ -1,0 +1,15 @@
+@charset utf-8;
+/**
+ * @package Weluka
+ * @since Weluka Theme 00 1.0
+ * 　
+ */
+
+/*@import url('style.css');*/
+
+html,
+body {
+	min-width:0;
+	min-height:0;
+	background: #FFF3F0;
+}
