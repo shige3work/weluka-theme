@@ -19,7 +19,7 @@ if ( file_exists( get_template_directory() . '/vendor/plugin-update-checker/plug
 }
 
 // config
-define( 'WELUKA_THEME_VERSION', '1.4.0' );
+define( 'WELUKA_THEME_VERSION', '1.4.1' );
 define( 'WELUKA_PLUGIN_OFFICIAL_URL', 'https://github.com/shige3work/weluka-plugin' ); //@since 1.0
 define( 'WELUKA_PTMP_POST_META_NAME', 'weluka_ptmp_meta' ); //@since 1.0
 
